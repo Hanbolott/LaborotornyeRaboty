@@ -1,3 +1,6 @@
+from random import randint
+
+
 def proc3():
     slova = []
     while (one_word := str(input())) !="stop":
@@ -18,8 +21,9 @@ def proc4():
         print("Эч , это не очень редкое слово")
         break
 proc4()
-from random import randint
+
 def proc5():
+    uni=0
 
 
     print("Для завершения игры введите слово stop")
