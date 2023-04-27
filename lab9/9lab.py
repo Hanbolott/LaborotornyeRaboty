@@ -26,7 +26,7 @@ def zadach2():
     import os
 
     a = "1.jpg"
-    b = "2.jpg"
+    b = "2.tiff"
     c = "3.jpg"
     d = "4.jpg"
 
