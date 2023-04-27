@@ -53,7 +53,7 @@ def zadach4():
     watMark = watMark.resize([200,200])
     filename.paste(watMark,[200,200],mask=watMark)
     filename.show()
-zadach4()
+zadach1()
 
 
 

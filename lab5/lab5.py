@@ -44,5 +44,5 @@ def zadach4():
 
     print('встречается', k, 'раз')
 
-zadach3()
+zadach4()
 
